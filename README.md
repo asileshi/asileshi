@@ -5,7 +5,7 @@ I’m a recent graduate in Computer and Electrical Engineering from Addis Ababa 
 Languages: Python, JavaScript, C#, Go, Java
 Frameworks & Libraries: Django, React, Vue, TensorFlow, Keras
 ## 🌟 Projects
-Rateeate
+Rateeate(http://rateeat.app/)
 A food rating website designed to make dining decisions easier.
 
 ## 💻 Current Work
