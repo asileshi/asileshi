@@ -2,7 +2,7 @@
 I’m a recent graduate in Computer and Electrical Engineering from Addis Ababa University, and I’m passionate about software development and machine learning.
 
 ## 🚀 Skills & TechnologiesProgramming
-Languages: Python, JavaScript, C#, Go, Java \n
+Languages: Python, JavaScript, C#, Go, Java <br>                                                                                                 
 Frameworks & Libraries: Django, React, Vue, TensorFlow, Keras
 ## 🌟 Projects
 Rateeate(http://rateeat.app/)
