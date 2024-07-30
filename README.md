@@ -1,5 +1,21 @@
-## Hi there 👋
+Hi there, I'm Sileshi! 👋
+I’m a recent graduate in Computer and Electrical Engineering from Addis Ababa University, and I’m passionate about software development and machine learning.
 
-I am Sileshi from Ethiopia, I am a recent electrical and computer engineering graduate from Addis ababa university. I have over three years of experience in software development
+🚀 Skills & Technologies
+Programming Languages: Python, JavaScript, C#, Go, Java
+Frameworks & Libraries: Django, React, Vue, TensorFlow, Keras
+🌟 Projects
+Rateeate
+A food rating website designed to make dining decisions easier.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asileshi)](https://github.com/anuraghazra/github-readme-stats)
+💻 Current Work
+I’m currently learning Golang and exploring its capabilities.
+
+📫 Contact Information
+Email: abebesileshi828@gmail.com
+LinkedIn: Sileshi Abebe
+🎉 Fun Facts
+I love playing and watching football!
+
+💬 Favorite Quote
+"The magic you are looking for is in the work you are avoiding."
