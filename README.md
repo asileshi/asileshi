@@ -1,8 +1,8 @@
 ## Hi there, I'm Sileshi! 👋
 I’m a recent graduate in Computer and Electrical Engineering from Addis Ababa University, and I’m passionate about software development and machine learning.
 
-## 🚀 Skills & Technologies
-Programming Languages: Python, JavaScript, C#, Go, Java
+## 🚀 Skills & TechnologiesProgramming
+Languages: Python, JavaScript, C#, Go, Java
 Frameworks & Libraries: Django, React, Vue, TensorFlow, Keras
 ## 🌟 Projects
 Rateeate
